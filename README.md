@@ -82,6 +82,10 @@ ecommerce-analytics-sql/
 
 ---
 
+![Churn Dashboard](images/e-comerce.png)
+
+---
+
 ## Dataset
 
 Brazilian E-commerce Public Dataset by Olist  
