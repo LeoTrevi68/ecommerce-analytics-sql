@@ -54,17 +54,29 @@ This project focuses on identifying:
 ## Project Structure
 
 ecommerce-analytics-sql/
+
 │
+
 ├── notebooks/
+
 │ └── analysis.ipynb
+
 │
+
 ├── sql/
+
 │ └── queries.sql
+
 │
+
 ├── data/
+
 │ └── source.txt
+
 │
+
 ├── README.md
+
 └── LICENSE
 
 
